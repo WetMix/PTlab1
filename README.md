@@ -20,7 +20,8 @@ rating
   |           |----github-actions-testing.yml 
   | 
   |----data 
-  |     |----data.txt 
+  |     |----data.txt
+  |     |----data.json 
   | 
   |----src 
   |     |----CalcRating.py 
@@ -40,6 +41,8 @@ rating
   | 
   |----README.md 
   |----requirements.txt
+  |----.gitignore
+  |----LICENSE
 ```
 ## Используемые технологии
 
